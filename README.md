@@ -10,4 +10,5 @@ Wood, R. et al. (2023). Joint Prediction of Response to Therapy, Molecular Trait
 In the ```Clustering``` folder, find code for the paper: **Cluster Triplet Loss for Unsupervised Domain Adaptation on Histology Images**
 
 ### Cite this paper
-Wood, Ruby, et al. "Cluster Triplet Loss for Unsupervised Domain Adaptation on Histology Images." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. https://openaccess.thecvf.com/content/CVPR2024W/DEF-AI-MIA/papers/Wood_Cluster_Triplet_Loss_for_Unsupervised_Domain_Adaptation_on_Histology_Images_CVPRW_2024_paper.pdf 
+R. Wood, E. Domingo, V. H. Koelzer, T. S. Maughan and J. Rittscher, "Cluster Triplet Loss for Unsupervised Domain Adaptation on Histology Images", 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Seattle, WA, USA, 2024, pp. 5122-5131, doi: 10.1109/CVPRW63382.2024.00519.
+https://ieeexplore.ieee.org/document/10677898 
